@@ -10,7 +10,7 @@ Here are my final projects made on each Sprint of TT.
   - Jupyter Notebook
 
 #### Sprint #2 (Python Basico Continuacion)
-- [X] Proyecto Final
+- [X] [Proyecto Final](https://github.com/margaritatreyes/TT_Portafolio/blob/b782df9ae34e2044b029203a0e89324832ca53b3/Sprint%20%232%20-%20Python%20Basico%20(continuacion).ipynb)
   - Diccionarios
   - Funciones
   - Pandas
