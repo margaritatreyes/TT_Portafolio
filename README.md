@@ -17,7 +17,7 @@ Here are my final projects made on each Sprint of TT.
   - Procesamiento de Datos
 
 #### Sprint #3 (Manipulacion de Datos/ Data Wrangling)
-- [X] Proyecto Final
+- [X] [Proyecto Final](https://github.com/margaritatreyes/TT_Portafolio/blob/2da7bbbd62c57502d1473063504ff5bb201f73fc/Sprint%20%233%20-%20Manipulation%20de%20Datos.ipynb)
   - Leer y Visualizar Datos (csv, excel)
   - Valores Duplicados y Ausentes (cualitativos y cuantitativos)
   - Filtrado de Datos (query,where())
