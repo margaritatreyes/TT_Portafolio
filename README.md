@@ -27,6 +27,10 @@ Here are my final projects made on each Sprint of TT.
   - Transformacion de Datos
 
 #### Sprint #4 (Analisis Estadistico de Datos)
+- [X] Proyecto Final
+  - Estadistica Descriptiva (histograma de frecuencia, histograma de densidad, medidas de posicion, varianza)
+  - Teoria de la Probabilidad
+  - Prueba de Hipotesis
 
 #### Sprint #5 (Herramientas de Desarrollo de Software)
 
