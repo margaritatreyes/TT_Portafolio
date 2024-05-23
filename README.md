@@ -2,7 +2,7 @@
 Here are my final projects made on each Sprint of TT.
 
 #### Sprint #1 (Python Basico)
-- [X] Proyecto Final
+- [X] [Proyecto Final](https://github.com/margaritatreyes/TT_Portafolio/blob/b782df9ae34e2044b029203a0e89324832ca53b3/Sprint%20%23%201%20-%20Python%20Basico.ipynb)
   - String
   - Listas
   - Bucles
