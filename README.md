@@ -2,14 +2,19 @@
 Here are my final projects made on each Sprint of TT.
 
 #### Sprint #1 (Python Basico)
-- [x] String
-- [X] Listas
-- [X] Bucles
-- [X] Sentencias Condicionales
-- [X] Jupyter Notebook
 - [X] Proyecto Final
+  - String
+  - Listas
+  - Bucles
+  - Sentencias Condicionales
+  - Jupyter Notebook
 
 #### Sprint #2 (Python Basico Continuacion)
+- [X] Proyecto Final
+  - Diccionarios
+  - Funciones
+  - Pandas
+  - Procesamiento de Datos
 
 #### Sprint #3 (Manipulacion de Datos/ Data Wrangling)
 
