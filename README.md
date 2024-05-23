@@ -27,7 +27,7 @@ Here are my final projects made on each Sprint of TT.
   - Transformacion de Datos
 
 #### Sprint #4 (Analisis Estadistico de Datos)
-- [X] Proyecto Final
+- [X] [Proyecto Final](https://github.com/margaritatreyes/TT_Portafolio/blob/b5681d3df94a3ac920ae9e83d0662a0c868a4da0/Sprint%20%234%20-%20Analisis%20Estadistico%20de%20Datos.ipynb)
   - Estadistica Descriptiva (histograma de frecuencia, histograma de densidad, medidas de posicion, varianza)
   - Teoria de la Probabilidad
   - Prueba de Hipotesis
