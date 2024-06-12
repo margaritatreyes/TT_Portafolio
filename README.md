@@ -1,5 +1,5 @@
 # TT_Portafolio
-Here are my final projects made on each Sprint of TT.
+Aqui estan los proyectos finales de cada Sprint.
 
 #### Sprint #1 (Python Basico)
 - [X] Proyecto Final
