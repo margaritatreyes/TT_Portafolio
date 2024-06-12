@@ -1,5 +1,5 @@
 # TT_Portafolio
-Aqui estan los proyectos finales de cada Sprint.
+Aqui estan los proyectos finales de cada Sprint. Estos proyectos son del Sprint 1 al Sprint 4.
 
 #### Sprint #1 (Python Basico)
 - [X] Proyecto Final
